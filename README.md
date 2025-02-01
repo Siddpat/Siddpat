@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Siddhant Pathak**, a passionate and ambitious B.Tech student in Electrical Engineering at **IIT (BHU), Varanasi**. My journey spans across the realms of **Machine Learning**, **Reinforcement Learning**, **Generative AI**, and **Scientific Applications of AI**. I'm enthusiastic about driving innovation, solving complex problems, and contributing to the future of **Artificial General Intelligence (AGI)**.
+Welcome to my GitHub profile! I'm **Siddhant Pathak**, a passionate and ambitious B.Tech student in Electrical Engineering at **IIT (BHU), Varanasi**. My journey spans across the realms of **Machine Learning**, **Reinforcement Learning**, **Generative AI**, **Large Language Models**and **Scientific Applications of AI**. I'm enthusiastic about driving innovation, solving complex problems, and contributing to the future of **Artificial General Intelligence (AGI)**.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **Siddhant Pathak**, a passionate and ambitiou
 
 - 🎓 **Education**: B.Tech in Electrical Engineering, IIT (BHU), Varanasi  
 - 🌍 **Location**: Nagda, India  
-- 📚 **Research Interests**: Reinforcement Learning, Generative AI, Federated Learning, Brain-Computer Interfaces, and Scientific Applications of Machine Learning.
+- 📚 **Research Interests**: Reinforcement Learning, Generative AI, LLMs Federated Learning, Brain-Computer Interfaces, and Scientific Applications of Machine Learning.
 
 ## 🛠️ Technical Skills
 
@@ -46,7 +46,8 @@ Welcome to my GitHub profile! I'm **Siddhant Pathak**, a passionate and ambitiou
 ### 🧠 Deep Learning
 - **Fault Line Detection**: Built a robust ANN to detect fault lines in geological images.
 - **Sentiment Analysis**: Used LSTM networks for analyzing the sentiment of IMDB movie reviews.(https://github.com/Siddpat/NLP-model-on-INMD-Reviews)
-
+- **RAG Based AI Agent**: Used Pathway API to develop an RAG based AI application on streamlit, for optimized Dropbox document retrieval.
+ 
 
 ### 🔬 Scientific Research
 - **Smart Grid Integration(ongoing)**: Studying the application of smart grids for efficient energy distribution with Prof. S.R. Mohanty.
