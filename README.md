@@ -36,22 +36,27 @@ Welcome to my GitHub profile! I'm **Siddhant Pathak**, a passionate and ambitiou
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 📂 Featured Projects
+##  Featured Projects
 
 
-### 🚀 Reinforcement Learning
+###  Reinforcement Learning
 - **Snake Game AI**: Developed an agent using Q-Learning to play the Snake Game autonomously.(https://github.com/Siddpat/Snakegame_RL_Project)
 
-  
-### 🧠 Deep Learning
+###  Data Analytics
+- **F1 Race Analytics Dashboard**: Built and deployed a Dashboard using streamlit that analyses any race from 2018 till date on Formula 1. It uses the fastf1 api to access the race data. The dashboard includes detailed analysis of Tyre-strategy along with head to head position comparisions in a "worm chart".(https://f1-performance-analytics.streamlit.app/)
+
+###  Deep Learning
+- **Conversational Database Agent**: Built an AI agent that gives response to natural language prompts based on the MongoDB database it is trained on. I worked with "sample_analytics" dataset on mongodb.(https://github.com/Siddpat/Conversational_Database_Agent)
 - **Fault Line Detection**: Built a robust ANN to detect fault lines in geological images.
 - **Sentiment Analysis**: Used LSTM networks for analyzing the sentiment of IMDB movie reviews.(https://github.com/Siddpat/NLP-model-on-INMD-Reviews)
 - **RAG Based AI Agent**: Used Pathway API to develop an RAG based AI application on streamlit, for optimized Dropbox document retrieval.
- 
+ - **Social Media Crisis Detection**: (https://github.com/Siddpat/Social-Media-Crisis-Detection-System)
 
-### 🔬 Scientific Research
+###  Scientific Research
+- **Bio-acoustic avionics Classification**: Worked on endangered bird sound data classification using transformer models like HuBERT under Prof. Chng Eng Siong, NTU Singapore.
+- **Home Energy Management(ongoing)**: Researching on improving Home Energy Management using RL(DQN) and multi-agent RL under Prof. Subho Paul, IIT (BHU).
 - **Smart Grid Integration(ongoing)**: Studying the application of smart grids for efficient energy distribution with Prof. S.R. Mohanty.
-- **Convex RL for EV Path Planning(ongoing)**: Researching optimal path planning using RL under Prof. Lakshmanan, IIT (BHU).
+- **Convex RL for EV Path Planning**:Worked on optimal path planning using RL under Prof. Lakshmanan, IIT (BHU).
 
 
 ## 📈 GitHub Stats
